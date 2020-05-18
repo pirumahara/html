@@ -1,0 +1,7 @@
+WINDOW + Tab => Desktops
+
+CTRL + C => Copy
+
+CTRL + V => Paste
+
+CTRL + X => Cut
